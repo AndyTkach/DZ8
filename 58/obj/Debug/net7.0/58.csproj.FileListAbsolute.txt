@@ -1,0 +1,15 @@
+D:\DZ8\58\bin\Debug\net7.0\58.exe
+D:\DZ8\58\bin\Debug\net7.0\58.deps.json
+D:\DZ8\58\bin\Debug\net7.0\58.runtimeconfig.json
+D:\DZ8\58\bin\Debug\net7.0\58.dll
+D:\DZ8\58\bin\Debug\net7.0\58.pdb
+D:\DZ8\58\obj\Debug\net7.0\58.csproj.AssemblyReference.cache
+D:\DZ8\58\obj\Debug\net7.0\58.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ8\58\obj\Debug\net7.0\58.AssemblyInfoInputs.cache
+D:\DZ8\58\obj\Debug\net7.0\58.AssemblyInfo.cs
+D:\DZ8\58\obj\Debug\net7.0\58.csproj.CoreCompileInputs.cache
+D:\DZ8\58\obj\Debug\net7.0\58.dll
+D:\DZ8\58\obj\Debug\net7.0\refint\58.dll
+D:\DZ8\58\obj\Debug\net7.0\58.pdb
+D:\DZ8\58\obj\Debug\net7.0\58.genruntimeconfig.cache
+D:\DZ8\58\obj\Debug\net7.0\ref\58.dll
